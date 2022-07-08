@@ -1,2 +1,2 @@
 # Shopping_Cart
-Shopping Cart com Vite
+Shopping Cart, iniciando com Vite, utilizando React router e bootstrap
